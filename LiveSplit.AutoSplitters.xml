@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+<AutoSplitter>
+	<Games>
+		<Game>AMID EVIL</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/Psych0sisA/Autosplitters/master/AMID_EVIL</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description> Autosplitter and load remover for AMID EVIL on Steam. Used for Full Game runs. Does not Split on ending cutscene just yet. (by Psych0sis)</Description>
+	<Website>https://discordapp.com/invite/786bQHD</Website>
+</AutoSplitter>
 	<AutoSplitter>
 	<Games>
 		<Game>Jimmy Neutron: Boy Genius (PC)</Game>
